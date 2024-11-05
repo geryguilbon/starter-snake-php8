@@ -1,0 +1,14 @@
+{
+    "name": "geryguilbon/starter-snake-php8",
+    "description": "BattleSnaker Player",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "BattleSnake\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.3"
+    }
+}
